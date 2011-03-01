@@ -1,0 +1,148 @@
+% LaTeX file for resume 
+% This file uses the resume document class (res.cls)
+
+\documentclass{res} 
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{lmodern}
+\usepackage[polish]{babel}
+\usepackage{makeidx}
+\usepackage{amsfonts}
+\usepackage{graphicx}
+\usepackage{datetime}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+
+% the margin option causes section titles to appear to the left of body text 
+%\textwidth=5.2in % increase textwidth to get smaller right margin
+%\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+%\usepackage{newcent}   % uses new century schoolbook postscript font 
+
+
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{\small{v0.1 @ \ddmmyyyydate \today}}
+\lfoot{}
+\cfoot{\footnotesize{Wyrażam zgodę na przetwarzanie danych osobowych zawartych w ofercie pracy dla potrzeb realizacji procesu rekrutacji (zgodnie z ustawą z dnia 29.08.1997 r. o ochronie danych osobowych Dz. U. nr 133, poz. 883)}}
+\rfoot{}
+
+\fancypagestyle{plain}{ %
+  \fancyhf{} % remove everything
+  \renewcommand{\headrulewidth}{0pt} % remove lines as well
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+\begin{document} 
+ 
+\name{CURRICULUM VITAE\\[12pt]} % the \\[12pt] adds a blank line after name
+ 
+\address{{\bf Konrad Malawski} \\ 
+	ur. 10.01.1989 \\ 
+	ul. Grenadierów 7/23 \\ 
+	30-085 Kraków \\ 
+	kom. 602366655 \\ 
+	Narodowość: polska \\ 
+%	Stan cywilny: kawaler \\ 
+	}
+\address{
+	email: konrad.malawski@project13.pl \\
+	github: github.com/ktoso \\
+	portfolio: project13.pl \\
+	blog: \url{blog.project13.pl} \\ 
+}
+ 
+\begin{resume} 
+ 
+%\section{Objective} 
+%Auditing/Analysis of Operations 
+
+\section{Wykształcenie} 
+{\bf Akademia Górniczo-Hutnicza} im. Stanisława Staszica w Krakowie \hfill 2008 – obecnie\\
+	Wydział: Elektrotechniki, Automatyki, Informatyki i Elektroniki (EAIiE) \\
+	Kierunek: Informatyka Stosowana\\ 
+
+{\bf I Liceum Ogólnokształcące} im. B. Nowodworskiego \hfill 2005 – 2008\\
+	Klasa: matematyczno - informatyczna\\ 
+
+ 
+
+\section{Doświadczenie zawodowe}
+{\bf Software Developer} w XSolve Sp. z o.o. (xsolve.pl) \hfill Lipiec 2010 – obecnie\\
+	odpowiedzialny głównie za rozwój aplikacji JEE.
+
+{\bf Freelancer} w Project13.pl \hfill 2006 – obecnie\\
+	Wykonywanie stron www (PHP), animacji Flash oraz programów J2ME/Android.
+
+\section{Przebyte szkolenia} 
+{\bf Uczestnik}
+\begin{itemize}
+ \item 3 day long \textbf{TDD} workshop by Pragmatists \hfill 2010
+ \item \textbf{Gradle} training with Hans Dockter (Gradle CEO) \hfill 2010
+ \item \textbf{Red Hat Linux} System Administration RH-131 \hfill 2009
+\end{itemize}
+{\bf Organizator}
+\begin{itemize}
+ \item współorganizator cyklu spotkań \textbf{JavaCamp} \hfill 2010 - obecnie
+ \item organizator \textbf{NetBeans Platform} Certified Training (netbeans.edu.pl) \hfill 2010 \\
+	http://edu.netbeans.org/courses/nbplatform-certified-training/ 
+ \item organizator licencji “Classroom” IntelliJ IDEA dostępnej wszystkim studentom AGH \hfill 2010
+\end{itemize}
+
+\section{Zdobyte certyfikaty} 
+{\bf Informatyczne}
+\begin{itemize}
+ \item Sun (Oracle) \textbf{Certified Java Programmer} \hfill 2010
+ \item Netbeans Platform Certified Associate & \textbf{Netbeans Platform Certified Engineer}
+ \item \textbf{ Red Hat Certified Technician / System
+Administrator} (RHCT/RHCSA): \hfill 2009\\
+	ID: #605009099327096 https://www.redhat.com/training/certification/verify/ 
+ \item ECDL \hfill 2005
+\end{itemize}
+{\bf Językowe}
+\begin{itemize}
+ \item dwukrotny laureat 'Olimpiady z języka Niemieckiego' \hfill 2004 - 2005
+ \item FCE, grade: B, \hfill 2004
+\end{itemize}
+
+\section{Inne (wyróżnienia / aktywność)} 
+\begin{itemize}
+ \item Aktywny \textbf{członek Polish Java User Group} \hfill 2010 - obecnie
+ \item Wyróżniony w konkursie Google Highly Open Participation Contest \hfill 2008
+ \item Finalista w Motorolla Diversity \hfill 2007
+ \item \textbf{Praktyczne} doświadczenie w pracy i administracji systemami GNU/Linuksowymi (Fedora/CentOS/Ubuntu)
+ \item Prawo jazdy kat.B (czynne)
+ \item Więcej linków: http://www.blog.project13.pl/index.php/\textbf{you-can-find-me-here}/
+\end{itemize}
+
+ 
+
+% Tabulate Computer Skills; p{3in} defines paragraph 3 inches wide
+\section{Umiejętności}
+\begin{itemize}
+ \item \textbf{Java} (J2SE, J2ME, JEE, w tym podstawy JEE6)
+ \subitem podstawy Hibernate, Spring, GWT
+ \subitem doświadczenie z Android SDK (małe aplikacje rest-klienckie)
+ \item Groovy
+  \subitem Grails, podstawy Gradle (netbeans.edu.pl, GeeCON 2011 - Call for papers)
+ \item PHP
+  \subitem głównie Symfony Framework (1.2 - 1.4)
+ \item SQL (głównie MySQL)
+ \item MongoDB (w małym (choć poważnym) komercyjnym projekcie)
+ \item (X)HTML / CSS / YAML / XML / JSON <- oczywiste
+ \item Na poziomie 'podstawowym':
+ \item JavaScript / jQuery
+ \item Bash, Python
+ \item Inne
+  \subitem znajomość \textbf{git} i subversion
+  \subitem znajomość TTD, w tym użycia Mocków (najchętniej \textbf{Mockito})
+\end{itemize}
+
+\end{tabular}
+
+\end{resume} 
+\end{document} 
+
+
+
