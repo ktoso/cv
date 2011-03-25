@@ -1,0 +1,163 @@
+body {
+    margin-top: 1.0em;
+    background-color: #000000;
+    background: url('01.png');
+    font-family: "Helvetica,Arial,FreeSans", serif;
+    color: #ffffff;
+}
+
+#container {
+    margin: 0 auto;
+    width: 1050px;
+    background-color: #333333;
+    border: 10px solid #262626;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 3.8em;
+    color: #ffffff;
+    font-weight: bold;
+    background: #262626;
+    margin: 0 20px 10px 0;
+    padding: 0px 5px 5px 10px;
+}
+
+h1 .small {
+    font-size: 0.4em;
+}
+
+h1 a {
+    text-decoration: none
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #ffffff;
+    font-weight: bold;
+    background: #262626;
+    margin: 10px 20px 10px 0;
+    padding: 5px 5px 5px 10px;
+
+}
+
+h3 {
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+    background: #262626;
+    margin: 0 20px 10px 0;
+    padding: 0px 5px 5px 10px;
+}
+
+.description img {
+    text-align: right
+}
+
+a {
+    text-decoration: none;
+    color: #177A93;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #CCC;
+}
+
+.description {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-style: italic;
+}
+
+.download {
+    float: right;
+}
+
+pre {
+    background: #000;
+    color: #fff;
+    padding: 15px;
+}
+
+hr {
+    border: 0;
+    width: 80%;
+    border-bottom: 1px solid #aaa
+}
+
+ul {
+    list-style: outside url("fileicons/file.png");
+}
+
+ul .bin {
+    list-style: outside url("fileicons/bin.png");
+}
+
+ul .tgz {
+    list-style: outside url("fileicons/tgz.png");
+}
+
+ul .zip {
+    list-style: outside url("fileicons/zip.png");
+}
+
+ul .txt, ul .tex {
+    list-style: outside url("fileicons/txt.png");
+}
+
+ul .odt {
+    list-style: outside url("fileicons/odt.png");
+}
+
+ul .pdf {
+    list-style: outside url("fileicons/pdf.png");
+}
+
+ul .jar {
+    list-style: outside url("fileicons/jar.png");
+}
+
+ul .java {
+    list-style: outside url("fileicons/java.png");
+}
+
+code {
+    background: none repeat scroll 0 0 #000000;
+    color: #FFFFFF;
+    padding: 4px;
+}
+
+.footer {
+    text-align: center;
+    padding-top: 30px;
+    font-style: italic;
+}
+
+/******************** css ribbon ************************/
+.ribbon {
+    /*background-color: #a00; -- original red*/
+    background-color: #177A93;
+    overflow: hidden; /* top left corner */
+    position: absolute;
+    right: -3em;
+    top: 2.5em; /* 45 deg ccw rotation */
+    -moz-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg); /* shadow */
+    -moz-box-shadow: 0 0 1em #888;
+    -webkit-box-shadow: 0 0 1em #888;
+}
+
+.ribbon a {
+    /*border: 1px solid #faa; -- original red*/
+    border: 1px solid #177A93;
+    color: #fff;
+    display: block;
+    font: bold 81.25% 'Helvetiva Neue', Helvetica, Arial, sans-serif;
+    margin: 0.05em 0 0.075em 0;
+    padding: 0.5em 3.5em;
+    text-align: center;
+    text-decoration: none; /* shadow */
+    text-shadow: 0 0 0.5em #444;
+}

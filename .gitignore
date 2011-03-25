@@ -1,5 +1,12 @@
+# intellij files
+.idea
+out
+*.iml
+
+# the generated site
 _site
 
+# backups
 *~
 *.log
 *.backup
