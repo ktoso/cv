@@ -3,6 +3,9 @@
 out
 *.iml
 
+# dvi is not needed in repo
+*.dvi
+
 # the generated site
 _site
 
