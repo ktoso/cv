@@ -1,0 +1,148 @@
+% LaTeX file for resume 
+% This file uses the resume document class (res.cls)
+
+\documentclass{res} 
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{lmodern}
+\usepackage[english]{babel}
+\usepackage{makeidx}
+\usepackage{amsfonts}
+\usepackage{graphicx}
+\usepackage{datetime}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+
+% the margin option causes section titles to appear to the left of body text 
+%\textwidth=5.2in % increase textwidth to get smaller right margin
+%\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+%\usepackage{newcent}   % uses new century schoolbook postscript font 
+
+
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{\small{v0.1 @ \ddmmyyyydate \today}}
+\lfoot{}
+\cfoot{\footnotesize{ I hereby agree for processing the following personal information strictly for the purposes of job recruitment in accordance with the regulation
+for the protection of personal data passed on 29.08.97r. Dz.U nr 133 poz. 883.}}
+\rfoot{}
+
+\fancypagestyle{plain}{ %
+  \fancyhf{} % remove everything
+  \renewcommand{\headrulewidth}{0pt} % remove lines as well
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+\begin{document} 
+ 
+\name{CURRICULUM VITAE\\[12pt]} % the \\[12pt] adds a blank line after name
+ 
+\address{{\bf Konrad Malawski} \\
+	10.01.1989, Vienna \\ 
+	ul. Grenadierów 7/23; 30-085 Kraków \\ 
+	mobile: +48 602 36 66 55 \\ 
+	}
+\address{
+	email: konrad.malawski@project13.pl \\
+        \textbf{linkedin: linkedin.com/in/konradmalawski} \\
+	\textbf{github: github.com/ktoso} \\
+	blog: \url{blog.project13.pl} \\ 
+}
+ 
+\begin{resume} 
+
+\section{Professional Experience}
+{\bf Software Developer} at XSolve Sp. z o.o. \hfill July 2010 - presently\\
+	GWT, Spring/Guice, Hibernate and Groovy
+
+{\bf Freelancer} at Project13.pl \hfill 2006 - presently\\
+	J2SE, J2ME Android, PHP 
+
+\section{Education} 
+{\bf AGH University} of Science and Technology \hfill 2008 - presently\\
+	Faculty of Electrical Engineering, Automatics, Computer Science and Electronics\\
+	Major: Applied computer science
+
+{\bf I Liceum Ogólnokształcące} im. B. Nowodworskiego \hfill 2005 - 2008\\
+	Profile: maths \& computer science
+
+\section{Skills}
+\begin{itemize}
+ \item \textbf{Java}: GWT, Hibernate, JPA2, Spring, JMS, HornetMQ, JAX-RS, Android
+ \item Groovy: Grails, basics of Gradle
+ \item JavaScript: BackBone.js, underscore.js, node.js, jQuery
+ \item SQL: MySQL, PostgreSQL
+ \item NoSQL: MongoDB 
+ \item Test Driven Development
+ \item Practical \textbf{SCRUM} experience
+ \item obviously: (X)HTML / CSS / YAML / XML / JSON / Maven / Ant / Gradle
+ \item Basics of: Bash, Python, Ruby, Scala
+ \item VCS: good subversion, and very good \textbf{git} skills
+\end{itemize}
+
+\section{Trainings} 
+{\bf Attendee:}
+\begin{itemize}
+ \item \textbf{JavaScript} training (incl. node.js and OOP concepts in js) (2 days) - devmeetings.pl \hfill 2011
+ \item \textbf{TDD} workshop by Pragmatists (3 days) \hfill 2010
+ \item \textbf{Gradle} training with Hans Dockter (Gradle CEO) \hfill 2010
+ \item \textbf{Red Hat Linux} System Administration RH-131 \hfill 2009
+\end{itemize}
+{\bf Organizer:}
+\begin{itemize}
+ \item \textbf{GeeCON 2011} \hfill 2011
+ \item \textbf{CodeRetreat}.sckrk.com \hfill 2011
+ \item \textbf{JavaCamp} meetings \hfill 2010 - presently
+ \item \textbf{NetBeans Platform} Certified Training (netbeans.edu.pl) \hfill 2010 \\
+	http://edu.netbeans.org/courses/nbplatform-certified-training/ 
+\end{itemize}
+
+\section{Certificates} 
+{\bf Technical}
+\begin{itemize}
+ \item Sun \textbf{Certified Java Programmer}, Java SE 6 \hfill 2010
+ \item Netbeans Platform Certified Associate \& \textbf{Netbeans Platform Certified Engineer} \hfill 2010
+ \item \textbf{Red Hat Certified Technician / System
+Administrator} (\#605009099327096) \hfill 2009\\
+\end{itemize}
+{\bf Language}
+\begin{itemize}
+ \item laureate of German Language olympiad (two times) \hfill 2004 - 2005
+ \item bilingual - Native German Speaker
+ \item First Certificate in English (\textbf{FCE}), grade: B \hfill 2004
+\end{itemize}
+
+\section{Other} 
+\begin{itemize}
+ \item \textbf{Member}
+ \subitem \textbf{Polish Java User Group} \hfill 2010 - presently
+ \subitem \textbf{Software Craftsmanship Cracow} \hfill 2010 - presently
+ \item {\bf Speaker:} 
+ \subitem JavaCamp \#5 \hfill 2011
+ \subitem Academic IT Festival (SFI) \hfill 2011
+ \item \textbf{Contests}
+ \subitem Participated in Google Highly Open Participation Contest \hfill 2008
+ \subitem Finalist in Motorolla Diversity Contest \hfill 2007
+ \item Practical knowledge about using and administering GNU/Linux systems
+ \item Cat. B Driving License
+ \item More on: \textbf{me.project13.pl}
+\end{itemize}
+
+\section{Personal interests}
+\begin{itemize}
+ \item japanese culture and music (JRock)
+ \item contributing small open source projects to github.com and sonatype maven repo
+ \item collecting video game consoles
+ \item tennis, skiing, snowboarding and swimming
+\end{itemize}
+
+
+\end{tabular}
+
+\end{resume} 
+\end{document} 
+
+
+
