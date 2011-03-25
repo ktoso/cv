@@ -1,3 +1,7 @@
+html, body {
+    overflow-x: hidden;
+}
+
 body {
     margin-top: 1.0em;
     background-color: #000000;
@@ -137,7 +141,7 @@ code {
 
 /******************** css ribbon ************************/
 .ribbon {
-    /*background-color: #a00; -- original red*/
+/*background-color: #a00; -- original red*/
     background-color: #177A93;
     overflow: hidden; /* top left corner */
     position: absolute;
@@ -150,7 +154,7 @@ code {
 }
 
 .ribbon a {
-    /*border: 1px solid #faa; -- original red*/
+/*border: 1px solid #faa; -- original red*/
     border: 1px solid #177A93;
     color: #fff;
     display: block;
