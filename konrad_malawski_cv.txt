@@ -1,23 +1,19 @@
                                            CURRICULUM                  VITAE                                v0.1  @  26/03/2011
 -------------------------------------------------------------------------------------------------------------------------------
-Konrad    Malawski                                                   email:  konrad.malawski@project13.pl
 10.01.1989, Vienna                                                   linkedin:     http://linkedin.com/in/konradmalawski
 ul. Grenadierów   7/23;  30-085   Kraków                             github:    http://github.com/ktoso
 mobile: +48   602  36 66  55                                         blog:  http://blog.project13.pl
 Professional    Experience
         Software     Developer      at XSolve    Sp.  z o.o.                                            July  2010   - presently
         GWT,     Spring/Guice,    Hibernate     and  Groovy
-
         Freelancer     at Project13.pl                                                                        2006   - presently
         J2SE,   J2ME    Android,    PHP
 Education
         AGH     University      of Science  and   Technology                                                  2008   - presently
         Faculty   of Electrical  Engineering,     Automatics,    Computer     Science    and  Electronics
         Major:   Applied   computer     science
-
         I Liceum     Ogólnokształcące         im.  B.  Nowodworskiego                                               2005  - 2008
-        Pro?le:   maths   &  computer    science
-
+        Profile:   maths   &  computer    science
 Skills
             *  Java:   GWT,     Hibernate,    JPA2,   Spring,  JMS,    HornetMQ,      JAX-RS,     Android
             *  Groovy:   Grails,   basics  of Gradle
@@ -35,28 +31,22 @@ Trainings
             *  TDD     workshop    by  Pragmatists     (3 days)                                                             2010
             *  Gradle    training   with  Hans   Dockter    (Gradle   CEO)                                                  2010
             *  Red   Hat    Linux    System   Administration      RH-131                                                    2009
-
         Organizer:
             *  GeeCON       2011                                                                                            2011
             *  CodeRetreat.sckrk.com                                                                                        2011
             *  JavaCamp       meetings                                                                        2010   - presently
             *  NetBeans      Platform      Certifed   Training    (netbeans.edu.pl)                                         2010
                http://edu.netbeans.org/courses/nbplatform-certi?ed-training/
-
-
 
-
 Certifcates
       Technical
           *  Sun  Certifed     Java   Programmer,         Java  SE   6                                                   2010
           *  Netbeans   Platform    Certifed    Associate   &  Netbeans      Platform       Certifed     Engineer        2010
           *  Red   Hat   Certifed     Technician       / System     Administrator         (#605009099327096)             2009
-
       Language
           *  laureate  of German     Language     olympiad    (two  times)                                       2004  - 2005
           *  bilingual - Native   German     Speaker
           *  First Certifcate    in English   (FCE),    grade:   B                                                       2004
-
 Other
           *  Member
                   Polish   Java    User   Group                                                             2010  - presently
@@ -70,25 +60,11 @@ Other
           *  Practical  knowledge    about    using  and  administering    GNU/Linux        systems
           *  Cat.  B Driving    License
           *  More  on:  me.project13.pl
-
 Personal interests
           *  japanese  culture   and  music   (JRock)
           *  contributing   small  open   source   projects  to  http://github.com    and   sonatype    maven    repo
           *  collecting video   game   consoles
           *  tennis, skiing,  snowboarding      and  swimming
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
-
+          I hereby agree for processing the following personal information strictly for the purposes of job recruitment in
+            accordance with the regulationfor the protection of personal data passed on 29.08.97r. Dz.U nr 133 poz. 883.
