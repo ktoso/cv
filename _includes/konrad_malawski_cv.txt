@@ -59,7 +59,7 @@ Other
                   Finalist  in Motorolla    Diversity   Contest                                                          2007
           *  Practical  knowledge    about    using  and  administering    GNU/Linux        systems
           *  Cat.  B Driving    License
-          *  More  on:  me.project13.pl
+          *  More  on:  http://me.project13.pl
 Personal interests
           *  japanese  culture   and  music   (JRock)
           *  contributing   small  open   source   projects  to  http://github.com    and   sonatype    maven    repo
