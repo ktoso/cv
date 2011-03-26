@@ -17,6 +17,7 @@ echo 'Decorate plaintext better...'
 sed -i -e 's|blog.project13.pl|http://blog.project13.pl|g' \
        -e 's|linkedin.com|http://linkedin.com|g' \
        -e 's|github.com|http://github.com|g' \
+       -e 's|me.project13.pl|http://me.project13.pl|g' \
        konrad_malawski_cv.txt
 
 # remove too much empty lines
