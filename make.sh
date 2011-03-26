@@ -31,5 +31,6 @@ sed -i -e 's/Certi?/Certif/g' \
 
 sed -i -e '2 s/.*/-------------------------------------------------------------------------------------------------------------------------------/g' konrad_malawski_cv.txt
 
+echo '-------------------------------------------------------------------------------------------------------------------------------' >> konrad_malawski_cv.txt
 echo '          I hereby agree for processing the following personal information strictly for the purposes of job recruitment in' >> konrad_malawski_cv.txt
 echo '            accordance with the regulationfor the protection of personal data passed on 29.08.97r. Dz.U nr 133 poz. 883.' >> konrad_malawski_cv.txt
