@@ -36,17 +36,21 @@ function initRepoTicker(username) {
     var repoTmpl = "repo";
     $.template(repoTmpl, '<li><a href="${url}" title="${title}">${name}</a></li>');
 
-    $.getJSON(url, function(data, textStatus) {
-        console.log('got data');
-
+    var loadDataIntoView = function(data, textStatus) {
+        $('#other-projects-l').text(' (');
+        $('#other-projects-r').text(')');
         var container = $('#other-projects');
         var list = $('<ul></ul>');
         container.append(list);
 
-        $.each(data.repositories, function(index, repo) {
+        _.each(data.repositories, function(repo) {
             $.tmpl(repoTmpl, repo).appendTo(list);
         });
+    };
 
+    $.getJSON(url, {}, function(data, textStatus) {
+        loadDataIntoView(data, textStatus);
+        //todo add handling of multiple pages of repos, see http://develop.github.com/p/repo.html
         startRepoTicker();
     });
 }
