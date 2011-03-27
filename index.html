@@ -22,8 +22,45 @@ meta_description: This is a github page, hosting my CV, it's really up to date a
 <div class="description">
     Hello, Visitor!<br/>
     This site is a GitHub hosted html representation of my CV.<br/>
-    It's generation is fully automated, so it's most likely up-to-date. Wanna see the source for it? ...just clone the repository and have fun!
+    It's generation is fully automated, so it's most likely up-to-date. Wanna see the source for it? ...just clone the
+    repository and have fun!
 </div>
+
+<h2>Plain Text Version</h2>
+<p>
+<pre id="my-cv">{% include konrad_malawski_cv.txt %}</pre>
+</p>
+
+<h2>Pdf Version (in place)</h2>
+<p>
+    <a id="show-pdf">Click here to load an embedded pdf view.</a>
+    <span id="pdf-container">
+        <!-- google embedded pdf preview goes here -->
+    </span>
+</p>
+
+
+<h2>Download</h2>
+<p>
+    You can download my cv as:
+    <ul id="downloads">
+        <li class="pdf"><a href="https://github.com/ktoso/cv/raw/master/konrad_malawski_cv.pdf">pdf</a> or</li>
+        <li class="txt"><a href="https://github.com/ktoso/cv/raw/master/konrad_malawski_cv.txt">txt</a> or</li>
+        <li class="tex"><a href="https://github.com/ktoso/cv/raw/master/konrad_malawski_cv.tex">tex</a> or</li>
+        <li class="html"><a href="http://ktoso.github.com/cv/">html</a>,
+            <small>(as this website does not relly on any external files!)</small> or
+        </li>
+        <li class="tgz">get them all together as <a href="https://github.com/ktoso/cv/tarball/master">tgz</a> file.</li>
+    </ul>
+    <br/>
+    Oh and don't worry about any of them being outdated etc.
+    <br/>
+    They're all generated from the LaTeX file when I <code>git deploy-cv</code>... :-)<br/>
+    <p>You can also clone this project with <code><a href="http://git-scm.com">Git</a></code> by running:
+        <pre>$ git clone git://github.com/ktoso/cv</pre>
+        Be sure to check out my other projects (<div id="other-projects"></div>)! <br/>
+    </p>
+</p>
 
 <h2>Contact me!</h2>
 <p id="contact-me">
@@ -33,34 +70,6 @@ meta_description: This is a github page, hosting my CV, it's really up to date a
     twitter: <a href="http://twitter.com/ktosopl">@ktosopl</a><br/>
     personal email: konrad.malawski@project13.pl <br/>
     java/polishjug email: konrad.malawski@java.pl <br/>
-
-</p>
-
-<h2>Plain Text Version</h2>
-<p>
-<pre id="my-cv">{% include konrad_malawski_cv.txt %}</pre>
-</p>
-
-
-<h2>Download</h2>
-<p>
-    You can download my cv as:
-<ul id="downloads">
-    <li class="pdf"><a href="https://github.com/ktoso/cv/raw/master/konrad_malawski_cv.pdf">pdf</a> or</li>
-    <li class="txt"><a href="https://github.com/ktoso/cv/raw/master/konrad_malawski_cv.txt">txt</a> or</li>
-    <li class="tex"><a href="https://github.com/ktoso/cv/raw/master/konrad_malawski_cv.tex">tex</a> or</li>
-    <li class="html"><a href="http://ktoso.github.com/cv/">html</a>, <small>(as this website does not relly on any external files!)</small> or</li>
-    <li class="tgz">get them all together as <a href="https://github.com/ktoso/cv/tarball/master">tgz</a> file.</li>
-</ul>
-<br/>
-Oh and don't worry about any of them being outdated etc.
-<br/>
-They're all generated from the LaTeX file when I <code>git deploy-cv</code>... :-)
-</p>
-<p>You can also clone this project with <code><a href="http://git-scm.com">Git</a></code> by running:
-<pre>$ git clone git://github.com/ktoso/cv</pre>
-Be sure to check out some of my other projects! <br/>
-Cheers, smotchkiss!
 </p>
 
 <div class="footer">
