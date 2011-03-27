@@ -131,12 +131,15 @@ ul .java {
     display: none;
 }
 
-#other-projects{
+#other-projects {
     display: inline-block;
-    overflow:hidden;
+    overflow: hidden;
+    position: relative;
+    top: 5px;
 }
-#other-projects ul{
-    padding-top:5px;
+
+#other-projects ul {
+    padding-top: 5px;
 }
 
 code {
