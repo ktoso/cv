@@ -1,21 +1,22 @@
-                                           CURRICULUM                  VITAE                                v0.1  @  26/03/2011
+                                           CURRICULUM                  VITAE                                 v0.1 @  29/06/2011
 -------------------------------------------------------------------------------------------------------------------------------
 10.01.1989, Vienna                                                   linkedin:     http://linkedin.com/in/konradmalawski
-ul. Grenadierów   7/23;  30-085   Kraków                             github:    http://github.com/ktoso
+ul. Grenadierów   7/23;  30-085   Kraków                             github:     http://github.com/ktoso
 mobile: +48   602  36 66  55                                         blog:  http://blog.project13.pl
 Professional    Experience
-        Software     Developer      at XSolve    Sp.  z o.o.                                            July  2010   - presently
+        Software     Developer      at Lunar    Logic  Polska                                           July  2011   - presently
+        Software     Developer      at XSolve    Sp.  z o.o.                                           July  2010  - June   2011
         GWT,     Spring/Guice,    Hibernate     and  Groovy
         Freelancer     at Project13.pl                                                                        2006   - presently
-        J2SE,   J2ME    Android,    PHP
+        Scala,  J2EE,   J2SE,   Groovy,   Android,    PHP
 Education
         AGH     University      of Science  and   Technology                                                  2008   - presently
         Faculty   of Electrical  Engineering,     Automatics,    Computer     Science    and  Electronics
         Major:   Applied   computer     science
-        I Liceum     Ogólnokształcące         im.  B.  Nowodworskiego                                               2005  - 2008
+        I Liceum     Ogólnokształcące         im.   B. Nowodworskiego                                               2005  - 2008
         Profile:   maths   &  computer    science
 Skills
-            *  Java:   GWT,     Hibernate,    JPA2,   Spring,  JMS,    HornetMQ,      JAX-RS,     Android
+            *  Java:   GWT,     Hibernate,    JPA2,   Spring,   JMS,   HornetMQ,      JAX-RS,     Android
             *  Groovy:   Grails,   basics  of Gradle
             *  JavaScript:   BackBone.js,     underscore.js,    node.js,  jQuery
             *  SQL:   MySQL,     PostgreSQL
@@ -30,14 +31,14 @@ Trainings
             *  JavaScript     training   (incl. node.js   and  OOP    concepts    in js)  (2 days)   - devmeetings.pl       2011
             *  TDD     workshop    by  Pragmatists     (3 days)                                                             2010
             *  Gradle    training   with  Hans   Dockter    (Gradle   CEO)                                                  2010
-            *  Red   Hat    Linux    System   Administration      RH-131                                                    2009
+            *  Red   Hat    Linux    System    Administration     RH-131                                                    2009
         Organizer:
             *  GeeCON       2011                                                                                            2011
             *  CodeRetreat.sckrk.com                                                                                        2011
             *  JavaCamp       meetings                                                                        2010   - presently
-            *  NetBeans      Platform      Certifed   Training    (netbeans.edu.pl)                                         2010
-               http://edu.netbeans.org/courses/nbplatform-certi?ed-training/
 
+          *  NetBeans      Platform     Certifed    Training   (netbeans.edu.pl)                                         2010
+             http://edu.netbeans.org/courses/nbplatform-certi?ed-training/
 Certifcates
       Technical
           *  Sun  Certifed     Java   Programmer,         Java  SE   6                                                   2010
