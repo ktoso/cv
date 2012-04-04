@@ -4,8 +4,9 @@
 ul. Grenadierów   7/23;  30-085   Kraków                             github:     http://github.com/ktoso
 mobile: +48   602  36 66  55                                         blog:  http://blog.project13.pl
 Professional    Experience
-        Software     Developer      at Lunar    Logic  Polska                                           July  2011   - presently
-        Software     Developer      at XSolve    Sp.  z o.o.                                           July  2010  - June   2011
+        Senior Software Developer   at SoftwareMill                                                   January 2012 - presently
+        Software     Developer      at Lunar    Logic  Polska                                            July 2011 - December 2011
+        Software     Developer      at XSolve                                                            July 2010 - June   2011
         GWT,     Spring/Guice,    Hibernate     and  Groovy
         Freelancer     at Project13.pl                                                                        2006   - presently
         Scala,  J2EE,   J2SE,   Groovy,   Android,    PHP
@@ -17,6 +18,7 @@ Education
         Profile:   maths   &  computer    science
 Skills
             *  Java:   GWT,     Hibernate,    JPA2,   Spring,   JMS,   HornetMQ,      JAX-RS,     Android
+            *  Scala: Akka 1.2 / 2.0 and backend services dev expirience
             *  Groovy:   Grails,   basics  of Gradle
             *  JavaScript:   BackBone.js,     underscore.js,    node.js,  jQuery
             *  SQL:   MySQL,     PostgreSQL
