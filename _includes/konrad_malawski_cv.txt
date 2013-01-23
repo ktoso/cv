@@ -1,74 +1,129 @@
-=======
-                                           CURRICULUM                  VITAE                                 v0.1 @  29/06/2011
+                                      CURRICULUM                VITAE                                         v0.5   23/01/2013
 -------------------------------------------------------------------------------------------------------------------------------
-10.01.1989, Vienna                                                   linkedin:     http://linkedin.com/in/konradmalawski
-ul. Grenadierów   7/23;  30-085   Kraków                             github:     http://github.com/ktoso
-mobile: +48   602  36 66  55                                         blog:  http://blog.project13.pl
+10.01.1989, Vienna (Austria)                                             linkedin:      http://linkedin.com/in/konradmalawski
+mobile: +48 602366655                                                    github:        http://github.com/ktoso
+                                                                         blog:          http://blog.project13.pl
 Professional    Experience
-        Senior Software Developer   at SoftwareMill                                                   January 2012 - presently
-        Software     Developer      at Lunar    Logic  Polska                                            July 2011 - December 2011
-        Software     Developer      at XSolve                                                            July 2010 - June   2011
-        GWT,     Spring/Guice,    Hibernate     and  Groovy
-        Freelancer     at Project13.pl                                                                        2006   - presently
-        Scala,  J2EE,   J2SE,   Groovy,   Android,    PHP
+        Senior Software Engineer              at SoftwareMill                                          January 2012 - presently
+          Focusing on Scala backend applications and data crunching
+
+        Software Developer                    at Lunar Logic Polska                                   July 2011 - December 2012
+          Worked on  large hotelier backend system
+          Performed trainings for other teams
+          Mentor of the Android Team
+
+        Trainer at Compendium Centrum Edukacyjne                                                      November 2011 - presently
+          Preparing and conducting Android,     Java   and   Scala   trainings.
+
+        Software Developer                     at XSolve Sp. z o.o.                                       July 2010 - June 2011
+          Worked on backend for an online file backup system and,
+          an VM provisioning system; 
+          Implemented multi currency payments and invoice  modules
+
+        Owner                                   at Project13                                                   2006 - presently
+          Scala, Groovy, JEE6 or Rails WebApps
+          Plain J2SE, NetBeansPlatform, Griffon Desktop Apps
+          J2ME or Android Mobile Apps
+
+
 Education
-        AGH     University      of Science  and   Technology                                                  2008   - presently
-        Faculty   of Electrical  Engineering,     Automatics,    Computer     Science    and  Electronics
-        Major:   Applied   computer     science
-        I Liceum     Ogólnokształcące         im.   B. Nowodworskiego                                               2005  - 2008
-        Profile:   maths   &  computer    science
+        AGH University of Science and Technology                                                                   2008 - 2013
+          Faculty of Electrical Engineering, Automatics, Computer Science and Electronics
+          Major:    Applied computer science
+        
+        I Liceum Ogólnokształcące im. B. Nowodworskiego
+          Profile:  Maths & Computer Science
+
+
 Skills
-            *  Java:   GWT,     Hibernate,    JPA2,   Spring,   JMS,   HornetMQ,      JAX-RS,     Android
-            *  Scala: Akka 1.2 / 2.0 and backend services dev expirience
-            *  Groovy:   Grails,   basics  of Gradle
-            *  JavaScript:   BackBone.js,     underscore.js,    node.js,  jQuery
-            *  SQL:   MySQL,     PostgreSQL
-            *  NoSQL:    MongoDB
-            *  Test  Driven   Development
-            *  Practical  SCRUM        experience
-            *  obviously:   (X)HTML       / CSS   /  YAML     / XML    / JSON     / Maven     / Ant   / Gradle
-            *  Basics  of: Bash,   Python,    Ruby,   Scala
-            *  VCS:   good   subversion,   and   very  good   git skills
-Trainings
-        Attendee:
-            *  JavaScript     training   (incl. node.js   and  OOP    concepts    in js)  (2 days)   - devmeetings.pl       2011
-            *  TDD     workshop    by  Pragmatists     (3 days)                                                             2010
-            *  Gradle    training   with  Hans   Dockter    (Gradle   CEO)                                                  2010
-            *  Red   Hat    Linux    System    Administration     RH-131                                                    2009
-        Organizer:
-            *  GeeCON       2011                                                                                            2011
-            *  CodeRetreat.sckrk.com                                                                                        2011
-            *  JavaCamp       meetings                                                                        2010   - presently
-
-          *  NetBeans      Platform     Certifed    Training   (netbeans.edu.pl)                                         2010
-             http://edu.netbeans.org/courses/nbplatform-certi?ed-training/
-Certifcates
-      Technical
-          *  Sun  Certifed     Java   Programmer,         Java  SE   6                                                   2010
-          *  Netbeans   Platform    Certifed    Associate   &  Netbeans      Platform       Certifed     Engineer        2010
-          *  Red   Hat   Certifed     Technician       / System     Administrator         (#605009099327096)             2009
-      Language
-          *  laureate  of German     Language     olympiad    (two  times)                                       2004  - 2005
-          *  bilingual - Native   German     Speaker
-          *  First Certifcate    in English   (FCE),    grade:   B                                                       2004
+             *  Scala:      real  life / big  project  experience
+             *  Java:       GWT, Hibernate, JPA2, Spring, JMS, JAX-RS, Android, JVM monitoring and performance tuning
+             *  Groovy:     Grails, Gradle
+             *  JavaScript: angular.js (long before 1.0), (a bit) backbone.js, underscore.js, Jasmine
+             *  Datastores: MySQL, PostgreSQL; NoSQL: MongoDB (experience with replicasets > 400GB)
+             *  obviously:  (X)HTML / CSS / XML / JSON / ProtoBuf / Maven / Ant / Gradle / SBT
+             *  Basics of:  Ruby, Python, Go, Hadoop / HBase
+             *  VCS:        very good understanding of git, svn
+             *  Test Driven Development (really)
+             *  Practical Scrum and Kanban experience, also with working in distributed teams
+
+
+Community
+       Speaker at:
+            * JFokus        - Scala on Android (new)                                                                       2013
+            * ScalaCamp     - Scala DSLs: Dissecting Foursquare Rogue                                                      2013
+            * Java Day Riga - Scala Intro                                                                                  2012
+            * Mobilization / KrakDroid - Scala    my  Android                                                              2012
+            * AGH University of Science and Technology - Scala - a scalable language                                       2012 
+            * Java Developer Days - Effective Git                                                                          2011
+            * Cracow Mobi         - Dependency Injection in Android, RoboGuice                                             2011
+            * Noc Informatyka     - Android, lightning fast intro                                                          2011
+            * SFI 2010            - Git. Tak. Po prostu.                                                                   2010
+            * JavaCamp            - Git                                                                                    2010
+
+Trainings / Workshops / Conferences
+       Organizer:
+            * 4 day long Scala in-depth workshop                                                                           2013
+            * Multiple JUG and  GDG Meetups                                                                         2012 - 2013
+            * Coach at Global Day of Code Retreat                                                                   2012 - 2013
+            * Global Android Dev Day 2012               
+            * Android workshops for Szczecin JUG                                                                           2011
+            * GeeCON                                                                                                2011 - 2013
+            * CodeRetreat.sckrk.com                                                                                 2011 - 2012
+            * Git workshop at SFI 2012                                                                                     2010
+            * NetBeans Platform Certified Training                                                                         2010
+              http://edu.netbeans.org/courses/nbplatform-certified-training/
+            * and more...
+       Attendee:
+            * JavaScript training (incl. node.js and OOP concepts in  js) (2 days) - devmeetings.pl                        2011
+            * TDD workshop by Pragmatists (3 days)                                                                         2010
+            * Gradle training with Hans Dockter (Gradle CEO)                                                               2010
+            * Red Hat Linux System Administration RH-131                                                                   2009
+
+
+Certificates
+       Technical
+            * Sun Certified Java Programmer, JavaSE 6                                                                      2010
+            * Netbeans Platform Certified Associate & Netbeans Platform Certified Engineer                                 2010
+            * Red Hat Certified Technician / System Administrator (#605009099327096)                                       2009
+
+       Language
+            * bilingual - Native     German       Speaker
+            * laureate of  German      Language       Olympics     (two  times)                                     2004 - 2005
+            * First Certificate    in English     (FCE),    grade:   B                                                     2004
+
+
 Other
-          *  Member
-                  Polish   Java    User   Group                                                             2010  - presently
-                  Software     Craftsmanship         Cracow                                                 2010  - presently
-          *  Speaker:
-                  JavaCamp     #5                                                                                        2011
-                  Academic    IT  Festival   (SFI)                                                                       2011
-          *  Contests
-                  Participated    in Google    Highly  Open    Participation    Contest                                  2008
-                  Finalist  in Motorolla    Diversity   Contest                                                          2007
-          *  Practical  knowledge    about    using  and  administering    GNU/Linux        systems
-          *  Cat.  B Driving    License
-          *  More  on:  http://me.project13.pl
-Personal interests
-          *  japanese  culture   and  music   (JRock)
-          *  contributing   small  open   source   projects  to  http://github.com    and   sonatype    maven    repo
-          *  collecting video   game   consoles
-          *  tennis, skiing,  snowboarding      and  swimming
+           *  Leader:
+                    Polish Java User Group                                                                      2010 - presently
+                    Google Developers Group Krakow                                                              2011 - presently
+                    Kraków Scala User Group                                                                     2013 - presently
+
+           *  Member:
+                    SCKRK - Software Craftsmanship Kraków (very active member)                                  2010 - presently
+                    Stowarzyszenie Software Engineering Professionals Polska (passive member)                   2011 - presently
+
+           *  Notable Open Source  contributions:
+                    * git-commit-id Maven Plugin   - widely   used   Git   plugin    for Apache     Maven
+                    * ScalaWords - Beautiful    "words",    library  for common         tasks
+                    * Janbanery  - Flutent    Java API for Kanbanery.com
+                    * Bugfix     - in Foursquare Rogue library
+
+           *  Featured in the Oracle Java Magazine issue March/April, in "The New Java   Developers"                        2012
+
+           *  Contests:
+                    Participated in Google Highly Open Participation Contest                                                2008
+                    Finalist in Motorola "Diversity" Contest                                                                2007
+
+           *  Practical knowledge about using and administering GNU/Linux systems, incl. usage of Chef scripts
+
+
+Personal  interests
+           *  japanese culture and music (traditional / modern)
+           *  contributing small open source projects to http://github.com/ktoso and Maven Central
+           *  distributed systems automation and configuration
+           *  collecting video game consoles
+           *  tennis
 
 -------------------------------------------------------------------------------------------------------------------------------
           I hereby agree for processing the following personal information strictly for the purposes of job recruitment in
