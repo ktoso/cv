@@ -91,7 +91,7 @@ Other
            *  Notable     Open    Source      Projects:
                     git-commit-id       Maven     Plugin
                     ScalaWords
-                    Janbanery       - Flutent   Java   API   for Kanbanery.com
+                    Janbanery       - Fluent   Java   API   for Kanbanery.com
            *  Featured      in the  Oracle     Java    Magazine      issue   March/April       2012
               in ?The   New    Java   Developers"
            *  Contests:
