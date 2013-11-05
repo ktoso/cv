@@ -13,5 +13,4 @@ _site
 *~
 *.log
 *.backup
-*.cls
 .directory
