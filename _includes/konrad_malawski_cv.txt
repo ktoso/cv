@@ -4,12 +4,7 @@
 mobile: +48 602366655                                                    github:        http://github.com/ktoso
                                                                          blog:          http://blog.project13.pl
 Professional    Experience
-        Dev                                   at ebay                                                           July 2013 - now
-          Working on a global Content Delivery System
-          Introduced Scala in European Development Team
-          Additionaly responsible for "External PR"
-
-        Senior Software Engineer              at SoftwareMill                                          January 2012 - July 2013
+        Senior Software Engineer              at SoftwareMill                                          January 2012 - presently
           Focusing on Scala backend applications and data crunching
 
         Software Developer                    at Lunar Logic Polska                                   July 2011 - December 2012
@@ -17,7 +12,7 @@ Professional    Experience
           Performed trainings for other teams
           Mentor of the Android Team
 
-        Trainer at Compendium Centrum Edukacyjne                                                      November 2011 - July 2013
+        Trainer at Compendium Centrum Edukacyjne                                                      November 2011 - presently
           Preparing and conducting Android,     Java   and   Scala   trainings.
 
         Software Developer                     at XSolve Sp. z o.o.                                       July 2010 - June 2011
@@ -25,7 +20,7 @@ Professional    Experience
           an VM provisioning system; 
           Implemented multi currency payments and invoice  modules
 
-        Owner                                   at Project13                                                   2006 - July 2013
+        Owner                                   at Project13                                                   2006 - presently
           Scala, Groovy, JEE6 or Rails WebApps
           Plain J2SE, NetBeansPlatform, Griffon Desktop Apps
           J2ME or Android Mobile Apps
@@ -55,23 +50,27 @@ Skills
 
 Community
        Speaker at:
-            * Devoxx, JavaOne SF, JFokus, JDays and many more - mostly Scala related talks                                    2013
+            * JFokus        - Scala on Android (new)                                                                       2013
             * ScalaCamp     - Scala DSLs: Dissecting Foursquare Rogue                                                      2013
+            * Java Day Riga - Scala Intro                                                                                  2012
             * Mobilization / KrakDroid - Scala    my  Android                                                              2012
             * AGH University of Science and Technology - Scala - a scalable language                                       2012 
             * Java Developer Days - Effective Git                                                                          2011
             * Cracow Mobi         - Dependency Injection in Android, RoboGuice                                             2011
+            * Noc Informatyka     - Android, lightning fast intro                                                          2011
+            * SFI 2010            - Git. Tak. Po prostu.                                                                   2010
             * JavaCamp            - Git                                                                                    2010
-            * many more...
 
 Trainings / Workshops / Conferences
        Organizer:
-            * Many programming hands-on workshops, hackathons and other events in Kraków                                   2013
             * 4 day long Scala in-depth workshop                                                                           2013
             * Multiple JUG and  GDG Meetups                                                                         2012 - 2013
             * Coach at Global Day of Code Retreat                                                                   2012 - 2013
+            * Global Android Dev Day 2012               
+            * Android workshops for Szczecin JUG                                                                           2011
             * GeeCON                                                                                                2011 - 2013
             * CodeRetreat.sckrk.com                                                                                 2011 - 2012
+            * Git workshop at SFI 2012                                                                                     2010
             * NetBeans Platform Certified Training                                                                         2010
               http://edu.netbeans.org/courses/nbplatform-certified-training/
             * and more...
@@ -81,6 +80,7 @@ Trainings / Workshops / Conferences
             * Gradle training with Hans Dockter (Gradle CEO)                                                               2010
             * Red Hat Linux System Administration RH-131                                                                   2009
 
+
 Certificates
        Technical
             * Sun Certified Java Programmer, JavaSE 6                                                                      2010
@@ -88,16 +88,16 @@ Certificates
             * Red Hat Certified Technician / System Administrator (#605009099327096)                                       2009
 
        Language
-            * German - bilingual (native)
-            * English - fluent profesional
-            * Japanese - beginner, for fun
+            * bilingual - Native     German       Speaker
+            * laureate of  German      Language       Olympics     (two  times)                                     2004 - 2005
+            * First Certificate    in English     (FCE),    grade:   B                                                     2004
+
 
 Other
-           *  Leader or founder:
+           *  Leader:
                     Polish Java User Group                                                                      2010 - presently
                     Google Developers Group Krakow                                                              2011 - presently
                     Kraków Scala User Group                                                                     2013 - presently
-                    Lambda Lounge Kraków                                                                        2013 - presently
 
            *  Member:
                     SCKRK - Software Craftsmanship Kraków (very active member)                                  2010 - presently
